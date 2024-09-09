@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey👋 Soy EzeLamar!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezelamar&show_icons=true&theme=radical)
 
